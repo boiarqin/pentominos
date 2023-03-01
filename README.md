@@ -1,5 +1,9 @@
 # Welcome to Pentomino's Pizza!
-- Built with [Remix](https://remix.run/docs)
+
+Built with:
+
+- [Remix](https://remix.run/docs)
+- [Tailwind](https://tailwindcss.com/docs/)
 
 ## Development
 
